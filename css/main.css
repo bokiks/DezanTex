@@ -569,15 +569,15 @@ label {
 .ttm_single_image-wrapper.imagestyle-three .ttm_single_image_text {
     text-align: right;
     font-size: 16px;
-    line-height: 23px;
+    line-height: 33px;
     transform: rotate(180deg);
     box-shadow: 0 0 10px 0 rgb(0 0 0 / 10%);
     position: absolute;
     writing-mode: vertical-lr;
     float: right;
     text-orientation: sideways;
-    top: 170px;
-    left: 33px;
+    top: 70px;
+    left: px;
     padding: 30px 6px;
     letter-spacing: 1.5px;
     -webkit-transition-delay: .35s;
