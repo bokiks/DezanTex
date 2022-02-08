@@ -4595,3 +4595,8 @@ section.error-404 .page-content p {
     height: 550px;
     width: 100%;
 }
+
+.gallery_container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
